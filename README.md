@@ -69,7 +69,13 @@ Folder TP2
 ```
 Folder TP3
 ```
+## EXTRA
 
+Link to the report written with Latex.
+
+```
+git clone https://github.com/GroverAruquipa/CV3D_Report_Latex
+```
 ## Authors
 
 Contributors names and contact info and any advise for common problems or issues.
