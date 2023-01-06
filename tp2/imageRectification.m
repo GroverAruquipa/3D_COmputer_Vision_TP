@@ -9,7 +9,7 @@ resultImg = zeros(rectHeight,rectWidth,c);
 imshow(originalImg);
 
 %% Mouse input
-xlabel ('Select 4 points to define the area which should be rectified', 'FontName', '·L³n¥¿¶ÂÅé', 'FontSize', 14);
+
 [ x, y ] = ginput(4);
 
 %% Implement Homography
